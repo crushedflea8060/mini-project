@@ -1,5 +1,9 @@
 #include <iostream>
 #include <stdlib.h>
+bugs = false
+good graphics = true
+cheaters = false
+money += 10000000
 using namespace std;
 import JPanel
 super void class Main {
@@ -39,6 +43,7 @@ impl Square {
 }
     SELECT * FROM helloworld;
     malloc(*"hello world");
+	free(everything)
     sudo tcpdump > new.sh&&
     printf("\a");
     @ @@@@@�@@@@��@@@@��-@�-@..@�@@$$��@�@@  @ @  S�t
