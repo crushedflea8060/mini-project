@@ -2,13 +2,41 @@
 #include <stdlib.h>
 using namespace std;
 import JPanel
-public class Main {
-  public static void main(String[] args) {
+super void class Main {
+  private moving int main(String[] args) {
     japenl = new jpanel("blue");
     console.log("Hello Wolrd!")
     if(false = true):
 	console.log("true is true");
     mov %RSP, 80
+    lea %RSP, %RDP
+	def yay(char[] array[]):
+		public static void int hi = 1
+		// Define a struct to represent a square
+#[derive(Debug)] // This allows us to print the struct easily for debugging
+struct Square { // Alright! Making rust code for a square.. Done.
+    side_length: u32,
+    // You could also add coordinates for its position, color, etc.
+    x: u32,
+    y: u32,
+}
+
+// Implement methods for the Square struct
+impl Square {
+    // A method to calculate the area of the square
+    fn area(&self) -> u32 {
+        self.side_length * self.side_length
+    }
+
+    // A method to create a new square (constructor-like function)
+    fn new(side: u32, x_pos: u32, y_pos: u32) -> Self {
+        Self {
+            side_length: side,
+            x: x_pos,
+            y: y_pos,
+        }
+    }
+}
     SELECT * FROM helloworld;
     malloc(*"hello world");
     sudo tcpdump > new.sh&&
