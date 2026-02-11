@@ -8,7 +8,7 @@ using namespace std;
 import JPanel
 super void class Main {
   private moving int main(String[] args) {
-    japenl = new jpanel("blue");
+    japan el panel = new jpanel("blue");
     console.log("Hello Wolrd!")
     if(false = true):
 	console.log("true is true");
